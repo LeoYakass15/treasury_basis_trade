@@ -1,0 +1,10 @@
+,10Y futures TYZ6,5Y futures FVZ6
+ctd,T 4 1/2 08/31/33,T 3 3/4 02/28/31
+conversion_factor,0.9202,0.909
+implied_repo_%,3.812,3.603
+repo_%,3.992,4.003
+edge_bp,-18.0,-40.0
+futures_to_sell_per_$1bn,9202,9090
+pnl_if_held_$k,-305,-722
+next_cheapest,T 3 7/8 08/15/33,T 3 7/8 03/31/31
+decision,WAIT,WAIT
